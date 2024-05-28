@@ -10,4 +10,6 @@ O código em si simula um aplicativo de chat.
 
 A aplicação foi construída em etapas e o resultado de cada etapa é disponibilizado num ramo. Este ramo (principal) possui a versão mais recente do projeto. 
 
-- O ramo [`passo01-spring-web`](https://github.com/vitorsouza/pi1-chat/tree/passo-01-spring-web) possui a primeira versão do projeto, construído com Spring Web e com um frontend HTML bem simples que utiliza JavaScript puro para interagir com a API.
+- O ramo [`passo01-spring-web`](https://github.com/vitorsouza/pi1-chat/tree/passo-01-spring-web) possui a primeira versão do projeto, construído com Spring Web e com um frontend HTML bem simples que utiliza JavaScript puro para interagir com a API;
+
+- O ramo [`passo02-spring-data`](https://github.com/vitorsouza/pi1-chat/tree/passo-02-spring-data) possui a segunda versão do projeto, em que Spring Data é utilizado para armazenar as mensagens num banco de dados H2.
